@@ -37,5 +37,6 @@ Para o desenvolvimento deste projeto foi utilizado:
 - Visual studio Code
 - Adobe Photoshop
 
-
-O projeto é uma fork feita no GitHub do projeto original, caso queira acessar e conferir os commits, basta <a href="https://github.com/ThiSouza022/mario-game-startse> clicar aqui </a>
+ ## Observações
+ 
+O projeto é uma fork feita no GitHub do projeto original, caso queira acessar a fork e conferir os commits, basta <a href="https://github.com/ThiSouza022/mario-game-startse"> Clicar Aqui! </a>
