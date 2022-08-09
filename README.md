@@ -5,8 +5,8 @@
   ## Descrição do Projeto
   Olá, seja bem vindo ao meu projeto Super Mario StartSe feito para o desafio do módulo VII do curso StartSe Tech Academy
   
-  O objetivo principal do projeto era dar continuidade ao projeto inicialmente feito pelo professor e modificá-lo a vontade, podendo mudar a temática, imagens, e outros.
-  Com o intuíto de colocar em prática o que foi aprendido no curso até o momento.
+  O objetivo principal era dar continuidade ao projeto inicialmente feito pelo professor e modificá-lo a vontade, podendo mudar a temática, imagens, e outros.
+  Com o objetivo de colocar em prática o que foi aprendido no curso até o momento.
   
   <a href="https://thisouza022.github.io/Super-Mario-StartSe/"> Acessar o Jogo! </a>
 
