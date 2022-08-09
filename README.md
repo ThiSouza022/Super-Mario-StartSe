@@ -12,7 +12,7 @@
 
  
  <h2 align="center"> 
-  Antes
+  Antes - Projeto inicial
   </h2>
   
   <h2 align="center"> 
@@ -21,7 +21,7 @@
   
  
   <h2 align="center">
-  Depois
+  Depois - Projeto Finalizado
   </h2>
     <h2 align="center"> 
  <img src="/gif/After.gif">
